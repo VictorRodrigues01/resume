@@ -6,7 +6,9 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size:0.8em
 }
-
+p {
+    margin: 0;
+}
 .deco-none {
     text-decoration:none;
     color: inherit;
@@ -15,8 +17,7 @@ body {
     color:inherit;
     text-decoration: inherit;
 }
-.header {
-    font-family: 'Open Sans', sans-serif;
+.header { 
     margin:0;
     
 }
@@ -32,8 +33,4 @@ body {
 
 .list-item a {
     color: cornflowerblue;
-}
-.logo {
-    height: 34px;
-    width: 34px;
 }
