@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans');
+
+body {
+    margin:0;
+    padding:0;
+    font-family: 'Montserrat', sans-serif;
+    font-size:0.8em
+}
+
+.deco-none {
+    text-decoration:none;
+    color: inherit;
+}
+.deco-none:hover {
+    color:inherit;
+    text-decoration: inherit;
+}
+.header {
+    font-family: 'Open Sans', sans-serif;
+    margin:0;
+    
+}
+
+.name:hover{
+    color:#313131 !important;
+}
+
+.list {
+    list-style: none;
+    padding: 0;
+}
+
+.list-item a {
+    color: cornflowerblue;
+}
+.logo {
+    height: 34px;
+    width: 34px;
+}
