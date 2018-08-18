@@ -34,3 +34,71 @@ p {
 .list-item a {
     color: cornflowerblue;
 }
+
+@media (min-width: 576px) { 
+   
+ }
+
+
+@media (min-width: 768px) { 
+
+    h1 {
+        font-size: 8em;
+    }
+
+    h5 {
+        font-size: 4em;
+    }
+
+    h6 {
+        font-size: 1em;
+    }
+
+    p {
+        font-size: 3em;
+    }
+    .job {
+        font-size: 3em;
+    }
+    .list-item {
+        font-size: 3em;
+    }
+
+    .list-item  p {
+        font-size: 0.9em;
+    }
+ }
+
+
+@media (min-width: 992px) {  
+    h1 {
+        font-size: 4em;
+    }
+
+    h5 {
+        font-size: 3em;
+    }
+
+    h6 {
+        font-size: 1em;
+    }
+
+    p {
+        font-size: 1.5em;
+    }
+    .job {
+        font-size: 1.5em;
+    }
+    .list-item {
+        font-size: 1.5em;
+    }
+
+    .list-item  p {
+        font-size: 0.9em;
+    }
+}
+
+
+@media (min-width: 1200px) { 
+
+ }
